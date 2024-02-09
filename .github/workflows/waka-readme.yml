@@ -15,6 +15,7 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME : waka 
           SHOW_TITLE: false
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: all_time
