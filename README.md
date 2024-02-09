@@ -12,13 +12,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2024 - To: 08 February 2024
+From: 09 January 2024 - To: 08 February 2024
 
-Total Time: 5 hrs 44 mins
-
-Go           5 hrs 35 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.26 %
-JavaScript   9 mins          >------------------------   02.70 %
-Other        0 secs          -------------------------   00.03 %
+TypeScript   27 hrs 43 mins  >>>>>>>>>>>>>>>----------   58.41 %
+JavaScript   10 hrs 47 mins  >>>>>>-------------------   22.75 %
+Go           5 hrs 35 mins   >>>----------------------   11.78 %
+JSON         1 hr 19 mins    >------------------------   02.81 %
+CSS          39 mins         -------------------------   01.40 %
 ```
 
 <!--END_SECTION:waka-->
