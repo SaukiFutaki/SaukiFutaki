@@ -18,6 +18,7 @@ jobs:
           SHOW_TITLE: false
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: all_time
-          LANG_COUNT : 5
+          LANG_COUNT : 6
+          SHOW_TIME : false
           
         
