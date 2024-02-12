@@ -2,7 +2,6 @@
   
 - 👋 Hi, I’m @SaukiFutaki
 - 👀 I’m interested in Frontend
-</div>
 
 <!---
 SaukiFutaki/SaukiFutaki is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
@@ -25,3 +24,5 @@ Markdown     7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
+</div>
