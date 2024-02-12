@@ -1,7 +1,7 @@
 <div align="center">
   
-- 👋 Hi, I’m @SaukiFutaki
-- 👀 I’m interested in Frontend
+👋 Hi, I’m @SaukiFutaki
+ 👀 I’m interested in Frontend
 
 <!---
 SaukiFutaki/SaukiFutaki is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Wakatime Stats :
+
 <!--START_SECTION:waka-->
 
 ```txt
