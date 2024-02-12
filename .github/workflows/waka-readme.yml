@@ -8,27 +8,11 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  # Job to update workflows
-  update-workflows:
-    name: Update Workflows
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out the code
-        uses: actions/checkout@v2
-      
-      # Add steps to update any necessary workflows here
-
-  # Job to update README.md
   update-readme:
-    name: Update README.md with WakaTime DevMetrics
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
-    needs: update-workflows  # Depend on the update-workflows job
     steps:
-      - name: Check out the code
-        uses: actions/checkout@v2
-      
-      - name: Update README.md with WakaTime DevMetrics
-        uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
