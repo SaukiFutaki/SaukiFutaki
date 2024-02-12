@@ -1,6 +1,6 @@
 <div align="center">
   
-👋 Hi, I’m @SaukiFutaki
+- 👋 Hi, I’m @SaukiFutaki
  👀 I’m interested in Frontend
 
 <!---
