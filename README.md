@@ -1,5 +1,8 @@
+<div align="center">
+  
 - 👋 Hi, I’m @SaukiFutaki
 - 👀 I’m interested in Frontend
+</div>
 
 <!---
 SaukiFutaki/SaukiFutaki is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
