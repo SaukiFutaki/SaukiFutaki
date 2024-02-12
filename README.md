@@ -6,8 +6,6 @@ SaukiFutaki/SaukiFutaki is a ✨ special ✨ repository because its README.md (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![SaukiFutaki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=SaukiFutaki&theme=react&show_icons=true&hide_border=true&layout=compact)
-<!--!![SaukiFutaki's Stats](https://github-readme-stats.vercel.app/api?username=SaukiFutaki&theme=react&show_icons=true&hide_border=true&count_private=true)-->
 
 Wakatime Stats :
 <!--START_SECTION:waka-->
