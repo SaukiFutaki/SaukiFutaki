@@ -18,9 +18,10 @@
 
 <!--START_SECTION:waka-->
 
-  
 ```txt
 From: 04 February 2024 - To: 11 February 2024
+
+Total Time: 19 hrs 42 mins
 
 TypeScript   13 hrs 37 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀   69.07 %
 Go           4 hrs 43 mins   ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.97 %
