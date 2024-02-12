@@ -6,16 +6,18 @@
 
 ## Statistics
 
-<p align="center">
+<div>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaukiFutaki&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="310">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaukiFutaki&theme=vue-dark&hide_border=true" width="370">
+</div>
 
-</p>
+
 
 ## Wakatime
 
 <!--START_SECTION:waka-->
-<div align="center">
+
   
 ```txt
 From: 04 February 2024 - To: 11 February 2024
@@ -29,5 +31,5 @@ Markdown     7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-</div>
+
 
