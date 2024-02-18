@@ -1,4 +1,4 @@
-# Halo  gaisssssss!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Halo  gaisssssss EAAA!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 - 👋 Hi, I’m @SaukiFutaki
 -  👀 ea 
