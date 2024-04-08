@@ -18,16 +18,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2024 - To: 06 April 2024
+From: 31 March 2024 - To: 07 April 2024
 
-Total Time: 15 hrs 45 mins
+Total Time: 16 hrs
 
-TypeScript   11 hrs 35 mins  ██████████████████▒░░░░░░   73.58 %
-Java         1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-CSS          1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Prisma       30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Bash         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-JavaScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+TypeScript   12 hrs 17 mins  ███████████████████▒░░░░░   76.71 %
+Java         1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+CSS          1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Prisma       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Bash         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
