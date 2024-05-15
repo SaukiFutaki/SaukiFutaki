@@ -17,11 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2024 - To: 13 May 2024
+From: 07 May 2024 - To: 14 May 2024
 
-Total Time: 1 hr 1 min
+Total Time: 5 hrs 48 mins
 
-TypeScript   1 hr 1 min      █████████████████████████   100.00 %
+TypeScript    5 hrs 31 mins   ███████████████████████▓░   95.31 %
+Prisma        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+JavaScript    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
