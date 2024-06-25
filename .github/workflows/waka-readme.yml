@@ -21,6 +21,6 @@ jobs:
           TIME_RANGE: all_time
           LANG_COUNT: 6
           SHOW_TIME: true
-             CODE_LANG: typescript
+          CODE_LANG: typescript
           
           
