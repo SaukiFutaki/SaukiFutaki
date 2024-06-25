@@ -18,7 +18,7 @@ jobs:
           SHOW_TITLE: true
           SHOW_TOTAL : true
           BLOCKS: ▁▂▃▄▅▆▇█
-          TIME_RANGE: all_time
+          TIME_RANGE: last_7_days
           LANG_COUNT: 6
           SHOW_TIME: true
          
