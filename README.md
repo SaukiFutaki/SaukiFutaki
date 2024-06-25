@@ -16,7 +16,7 @@
 
 <!--START_SECTION:waka-->
 
-```rust
+```rust, python, typescript
 From: 03 January 2024 - To: 24 June 2024
 
 Total Time: 365 hrs 37 mins
