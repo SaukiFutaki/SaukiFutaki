@@ -17,10 +17,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_TOTAL : true
-          BLOCKS: =>
+          BLOCKS: ▁▂▃▄▅▆▇█
           TIME_RANGE: all_time
           LANG_COUNT: 6
           SHOW_TIME: true
-          CODE_LANG: rust, python, typescript
+         
           
           
