@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2024 - To: 09 August 2024
+From: 03 August 2024 - To: 10 August 2024
 
-Total Time: 5 hrs 50 mins
+Total Time: 5 hrs 2 mins
 
-Other        5 hrs 53 mins   ████████████▅▁▁▁▁▁▁▁▁▁▁▁▁   50.16 %
-Go           4 hrs 7 mins    ████████▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   35.18 %
-TypeScript   1 hr 38 mins    ███▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.96 %
-JavaScript   4 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.59 %
-Bash         0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.10 %
+Other        5 hrs 53 mins   █████████████▄▁▁▁▁▁▁▁▁▁▁▁   53.86 %
+Go           3 hrs 44 mins   ████████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   34.17 %
+TypeScript   1 hr 13 mins    ██▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   11.22 %
+JavaScript   4 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.63 %
+Bash         0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.11 %
 TSConfig     0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.00 %
 ```
 
