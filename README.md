@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2024 - To: 17 August 2024
+From: 11 August 2024 - To: 18 August 2024
 
-Total Time: 3 hrs 28 mins
+Total Time: 5 hrs 32 mins
 
-Other      6 hrs 24 mins   ████████████████▂▁▁▁▁▁▁▁▁   64.83 %
-Go         3 hrs 27 mins   ████████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   34.97 %
-Markdown   0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.16 %
-JSON       0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.02 %
+Other      9 hrs 17 mins   ███████████████▆▁▁▁▁▁▁▁▁▁   62.61 %
+Go         5 hrs 30 mins   █████████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   37.15 %
+Markdown   1 min           ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.22 %
 CSV        0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.01 %
+JSON       0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.01 %
 ```
 
 <!--END_SECTION:waka-->
