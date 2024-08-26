@@ -17,16 +17,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2024 - To: 24 August 2024
+From: 18 August 2024 - To: 25 August 2024
 
-Total Time: 10 hrs 42 mins
+Total Time: 10 hrs 12 mins
 
-Other        10 hrs 1 min    ████████████▂▁▁▁▁▁▁▁▁▁▁▁▁   48.37 %
-Go           5 hrs 8 mins    ██████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   24.82 %
-TypeScript   3 hrs 38 mins   ████▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   17.59 %
-Python       1 hr 33 mins    █▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.52 %
-SQL          9 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.74 %
-Markdown     5 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.42 %
+Other        9 hrs 15 mins   ███████████▇▁▁▁▁▁▁▁▁▁▁▁▁▁   47.56 %
+TypeScript   4 hrs 32 mins   █████▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   23.31 %
+Go           3 hrs 46 mins   ████▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   19.40 %
+Python       1 hr 33 mins    ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.01 %
+SQL          9 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.79 %
+Markdown     4 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.36 %
 ```
 
 <!--END_SECTION:waka-->
