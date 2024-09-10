@@ -17,16 +17,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2024 - To: 07 September 2024
+From: 02 September 2024 - To: 09 September 2024
 
-Total Time: 5 hrs 55 mins
+Total Time: 2 hrs 58 mins
 
-Other          12 hrs 35 mins  █████████████████▁▁▁▁▁▁▁▁   67.99 %
-Go             3 hrs 54 mins   █████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   21.12 %
-TypeScript     1 hr 45 mins    ██▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.53 %
-JSON           8 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.79 %
-Markdown       5 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.51 %
-Figma Design   0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.03 %
+Other          12 hrs 16 mins  ████████████████████▂▁▁▁▁   80.47 %
+TypeScript     1 hr 55 mins    ███▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.60 %
+Go             50 mins         █▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.49 %
+JSON           8 mins          ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.96 %
+Markdown       3 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.44 %
+Figma Design   0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.04 %
 ```
 
 <!--END_SECTION:waka-->
