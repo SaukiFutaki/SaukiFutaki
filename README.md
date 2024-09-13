@@ -17,12 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2024 - To: 11 September 2024
+From: 05 September 2024 - To: 12 September 2024
 
 Total Time: 2 hrs 10 mins
 
-Other        5 hrs 51 mins   ██████████████████▃▁▁▁▁▁▁   72.90 %
-TypeScript   2 hrs 10 mins   ██████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   27.10 %
+Other        8 hrs 33 mins   ███████████████████▇▁▁▁▁▁   79.70 %
+TypeScript   2 hrs 10 mins   █████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   20.30 %
 CSS          0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.00 %
 ```
 
