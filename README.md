@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2024 - To: 23 September 2024
+From: 17 September 2024 - To: 24 September 2024
 
-Total Time: 4 hrs 51 mins
+Total Time: 4 hrs 42 mins
 
-Other        17 hrs 54 mins  ███████████████████▆▁▁▁▁▁   78.64 %
-Go           1 hr 44 mins    █▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.65 %
-Kotlin       1 hr 33 mins    █▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.82 %
-TypeScript   1 hr 32 mins    █▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.76 %
-TOML         1 min           ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.10 %
+Other        13 hrs 15 mins  ██████████████████▄▁▁▁▁▁▁   73.76 %
+Go           1 hr 44 mins    ██▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.70 %
+TypeScript   1 hr 32 mins    ██▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.57 %
+Kotlin       1 hr 19 mins    █▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.37 %
+Markdown     6 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.57 %
 CSS          0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.02 %
 ```
 
