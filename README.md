@@ -17,16 +17,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2024 - To: 22 October 2024
+From: 16 October 2024 - To: 23 October 2024
 
-Total Time: 20 hrs 9 mins
+Total Time: 17 hrs 10 mins
 
-Kotlin            11 hrs 55 mins  ██████████▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁   43.40 %
-Other             7 hrs 18 mins   ██████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   26.61 %
-Image (svg)       4 hrs 23 mins   ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   16.01 %
-XML               3 hrs 44 mins   ███▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.65 %
-TypeScript        5 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.31 %
-Java Properties   0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.01 %
+Kotlin        8 hrs 59 mins   █████████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   38.45 %
+Other         6 hrs 14 mins   ██████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   26.63 %
+Image (svg)   4 hrs 23 mins   ████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   18.79 %
+XML           3 hrs 41 mins   ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   15.76 %
+TypeScript    5 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.37 %
+Properties    0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.00 %
 ```
 
 <!--END_SECTION:waka-->
