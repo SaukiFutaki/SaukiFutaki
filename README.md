@@ -35,6 +35,9 @@ PHP           9 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 
 </div>
 
+
+<!--
+
 # Language and Tools
 
 <div align="left">
@@ -52,6 +55,7 @@ PHP           9 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
     <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" height="40" alt="astro logo"  />
 </div>
 
+-->
 
 
 
