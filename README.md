@@ -36,10 +36,10 @@ PHP                    14 hrs 49 mins  ▅▁▁▁▁▁▁▁▁▁▁▁▁�
 </div>
 
 
+<!--
 # Language and Tools
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
     <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" height="40" alt="astro logo"  />
-<!--
 
 
 <div align="left">
