@@ -19,16 +19,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2024 - To: 04 January 2025
+From: 29 December 2024 - To: 05 January 2025
 
-Total Time: 18 hrs 19 mins
+Total Time: 12 hrs 32 mins
 
-Kotlin       9 hrs 5 mins    ████████████▄▁▁▁▁▁▁▁▁▁▁▁▁   49.58 %
-TypeScript   7 hrs 6 mins    █████████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   38.78 %
-XML          1 hr 48 mins    ██▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.89 %
-JSON         10 mins         ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.99 %
-Bash         4 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.37 %
-TOML         2 mins          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.27 %
+TypeScript   6 hrs 22 mins   ████████████▆▁▁▁▁▁▁▁▁▁▁▁▁   50.84 %
+Kotlin       4 hrs 57 mins   █████████▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   39.48 %
+XML          1 hr 6 mins     ██▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.88 %
+TSConfig     4 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.62 %
+Bash         0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.07 %
+TOML         0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.07 %
 ```
 
 <!--END_SECTION:waka-->
