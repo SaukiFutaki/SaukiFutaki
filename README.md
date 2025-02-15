@@ -7,7 +7,8 @@
 <div>
 
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saukifutaki&theme=dark&show_icons=true&hide_border=false&layout=compact" width="321">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaukiFutaki&theme=dark&show_icons=true&hide_border=true&layout=compact" width="321">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaukiFutaki&theme=dark&hide_border=true" width="450">
 
 
 </div>
