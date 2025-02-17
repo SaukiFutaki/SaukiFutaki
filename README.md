@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2025 - To: 15 February 2025
+From: 09 February 2025 - To: 16 February 2025
 
-Total Time: 22 hrs 59 mins
+Total Time: 19 hrs 26 mins
 
-TypeScript   20 hrs 46 mins  ██████████████████████▅▁▁   90.15 %
-Go           1 hr 14 mins    █▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.39 %
-Prisma       26 mins         ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.91 %
-Bash         12 mins         ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.92 %
-Markdown     7 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.54 %
-Image        5 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.42 %
+TypeScript   18 hrs 21 mins  ███████████████████████▅▁   94.25 %
+Go           36 mins         ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.08 %
+Bash         12 mins         ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.09 %
+Markdown     7 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.64 %
+Image        5 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.50 %
+Other        2 mins          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.22 %
 ```
 
 <!--END_SECTION:waka-->
