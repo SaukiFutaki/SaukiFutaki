@@ -20,9 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2024 - To: 30 March 2025
+From: 03 January 2024 - To: 31 March 2025
 
-Total Time: 820 hrs 35 mins
+Total Time: 820 hrs 36 mins
 
 TypeScript             527 hrs 22 mins █████████████▄▁▁▁▁▁▁▁▁▁▁▁   53.62 %
 Other                  162 hrs 58 mins ████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   16.57 %
