@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2024 - To: 16 July 2025
+From: 03 January 2024 - To: 17 July 2025
 
-Total Time: 940 hrs 4 mins
+Total Time: 940 hrs 55 mins
 
-TypeScript             623 hrs 50 mins ██████████████▂▁▁▁▁▁▁▁▁▁▁   56.55 %
-Other                  163 hrs 1 min   ███▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   14.78 %
-Kotlin                 78 hrs 16 mins  █▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.10 %
+TypeScript             624 hrs 37 mins ██████████████▂▁▁▁▁▁▁▁▁▁▁   56.58 %
+Other                  163 hrs 1 min   ███▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   14.77 %
+Kotlin                 78 hrs 16 mins  █▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.09 %
 JavaScript             51 hrs 52 mins  █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.70 %
 Go                     36 hrs 13 mins  ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.28 %
-XML                    26 hrs 58 mins  ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.45 %
+XML                    26 hrs 58 mins  ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.44 %
 ```
 
 <!--END_SECTION:waka-->
