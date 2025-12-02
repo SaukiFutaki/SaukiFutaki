@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2024 - To: 29 November 2025
+From: 03 January 2024 - To: 30 November 2025
 
-Total Time: 991 hrs 5 mins
+Total Time: 991 hrs 25 mins
 
-TypeScript             664 hrs 12 mins ██████████████▄▁▁▁▁▁▁▁▁▁▁   57.55 %
+TypeScript             664 hrs 28 mins ██████████████▄▁▁▁▁▁▁▁▁▁▁   57.55 %
 Other                  163 hrs 5 mins  ███▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   14.13 %
 Kotlin                 78 hrs 16 mins  █▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.78 %
-JavaScript             55 hrs 4 mins   █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.77 %
+JavaScript             55 hrs 5 mins   █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.77 %
 Go                     36 hrs 13 mins  ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.14 %
 XML                    26 hrs 58 mins  ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.34 %
 ```
