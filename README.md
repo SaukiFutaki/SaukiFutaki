@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2024 - To: 04 January 2026
+From: 03 January 2024 - To: 05 January 2026
 
-Total Time: 1,510 hrs 35 mins
+Total Time: 1,512 hrs 15 mins
 
-TypeScript             1,036 hrs 4 mins██████████████▅▁▁▁▁▁▁▁▁▁▁   58.57 %
-Other                  258 hrs 31 mins ███▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   14.61 %
-Kotlin                 114 hrs 28 mins █▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.47 %
-JavaScript             78 hrs 20 mins  █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.43 %
+TypeScript             1,037 hrs 44 mins██████████████▆▁▁▁▁▁▁▁▁▁▁   58.60 %
+Other                  258 hrs 31 mins ███▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   14.60 %
+Kotlin                 114 hrs 28 mins █▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.46 %
+JavaScript             78 hrs 20 mins  █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.42 %
 Go                     55 hrs 2 mins   ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.11 %
-XML                    35 hrs 40 mins  ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.02 %
+XML                    35 hrs 40 mins  ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.01 %
 ```
 
 <!--END_SECTION:waka-->
