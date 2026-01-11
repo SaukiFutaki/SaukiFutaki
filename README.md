@@ -40,5 +40,5 @@ I am a passionate **Full-stack Developer** specializing in building high-perform
 ###  Wakatime
 
 ---
-### ⏳ Weekly Coding Activity (Wakatime)
+###  Wakatime
 ---
