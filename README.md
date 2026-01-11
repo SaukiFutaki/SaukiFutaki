@@ -9,12 +9,12 @@
 ### 🚀 About Me
 I am a passionate **Full-stack Developer** specializing in building high-performance web applications. With over **1,900+ coding hours** tracked, I focus on crafting clean, scalable, and type-safe code using the modern web stack.
 
--  Check out my portfolio: [**saukifutaki.site**](https://www.saukifutaki.site/) - 🛠️  Currently mastering: **Advanced TypeScript & System Design**
-
+- 🌍  Check out my portfolio: [**saukifutaki.site**](https://www.saukifutaki.site/)
+- 🛠️  Currently mastering: **Advanced TypeScript & System Design**
 
 ---
 
-###  My Tech Stack
+### 💻 My Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="35" alt="typescript" />
@@ -28,7 +28,7 @@ I am a passionate **Full-stack Developer** specializing in building high-perform
 
 ---
 
-###  Performance & Statistics
+### 📊 Performance & Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaukiFutaki&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%" />
@@ -37,8 +37,7 @@ I am a passionate **Full-stack Developer** specializing in building high-perform
 
 ---
 
-###  Wakatime
+### ⏳ Weekly Coding Activity
 
 ---
-###  Wakatime
----
+
