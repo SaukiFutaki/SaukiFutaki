@@ -14,7 +14,7 @@ I am a passionate **Full-stack Developer** specializing in building high-perform
 
 ---
 
-### 💻 My Tech Stack
+###  My Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="35" alt="typescript" />
@@ -28,7 +28,7 @@ I am a passionate **Full-stack Developer** specializing in building high-perform
 
 ---
 
-### 📊 Performance & Statistics
+###  Performance & Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaukiFutaki&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%" />
@@ -37,7 +37,11 @@ I am a passionate **Full-stack Developer** specializing in building high-perform
 
 ---
 
-### ⏳ Weekly Coding Activity
+###  Weekly Coding Activity
+## Wakatime
+<!--START_SECTION:waka-->
 
+
+<!--END_SECTION:waka-->
 ---
 
