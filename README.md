@@ -37,8 +37,8 @@ I am a passionate **Full-stack Developer** specializing in building high-perform
 
 ---
 
-###  Weekly Coding Activity
-## Wakatime
+
+##  Weekly Coding Activity
 <!--START_SECTION:waka-->
 
 ```txt
