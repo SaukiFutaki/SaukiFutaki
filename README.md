@@ -42,7 +42,7 @@ I am a passionate **Full-stack Developer** specializing in building high-perform
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2024 - To: 01 February 2026
+From: 03 January 2024 - To: 02 February 2026
 
 Total Time: 2,060 hrs 6 mins
 
