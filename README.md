@@ -6,11 +6,11 @@
 
 ---
 
-### 🚀 About Me
-I am a passionate **Full-stack Developer** specializing in building high-performance web applications. With over **1,900+ coding hours** tracked, I focus on crafting clean, scalable, and type-safe code using the modern web stack.
+###  About Me
+I am a passionate **Full-stack Developer** specializing in building high-performance web applications. With over **2.100+ coding hours** tracked, I focus on crafting clean, scalable, and type-safe code using the modern web stack.
 
-- 🌍  Check out my portfolio: [**saukifutaki.site**](https://www.saukifutaki.site/)
-- 🛠️  Currently mastering: **Advanced TypeScript & System Design**
+-   Check out my portfolio: [**saukifutaki.site**](https://www.saukifutaki.site/)
+-   Currently mastering: **Advanced TypeScript & System Design**
 
 ---
 
@@ -21,6 +21,7 @@ I am a passionate **Full-stack Developer** specializing in building high-perform
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="35" alt="nextjs" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" alt="react" />
   <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" height="35" alt="astro" />
+  <img src="https://img.shields.io/badge/Hono-FF6B00?logo=hono&logoColor=white&style=for-the-badge" height="35" alt="hono" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" height="35" alt="tailwind" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="35" alt="go" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="35" alt="kotlin" />
