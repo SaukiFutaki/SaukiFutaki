@@ -43,15 +43,15 @@ I am a passionate **Full-stack Developer** specializing in building high-perform
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2024 - To: 11 September 2026
+From: 03 January 2024 - To: 12 September 2026
 
-Total Time: 2,505 hrs 14 mins
+Total Time: 2,508 hrs 43 mins
 
-TypeScript             1,672 hrs 49 mins     ██████████████▅▁▁▁▁▁▁▁▁▁▁   58.14 %
-Other                  371 hrs 53 mins       ███▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.93 %
+TypeScript             1,676 hrs 19 mins     ██████████████▅▁▁▁▁▁▁▁▁▁▁   58.18 %
+Other                  372 hrs 33 mins       ███▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.93 %
 Kotlin                 158 hrs 54 mins       █▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.52 %
-Go                     108 hrs 43 mins       █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.78 %
-JavaScript             103 hrs 45 mins       ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.61 %
+Go                     108 hrs 43 mins       █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.77 %
+JavaScript             103 hrs 45 mins       ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.60 %
 Bash                   62 hrs 41 mins        ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.18 %
 ```
 
